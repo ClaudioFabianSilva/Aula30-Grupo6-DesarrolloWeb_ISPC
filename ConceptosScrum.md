@@ -25,3 +25,11 @@ Se realiza al finalizar el Sprint y tiene por objeto mostrar cuáles fueron los 
 ###### Sprint Retrosprective Meeting (Reunión de retrospectiva del Sprint)
 
 Se realiza al finalizar el Sprint y su objetivo es el de documentar que fuciono, y  que no funciono en el Sprint. La idea principal de esta reunión es centrar al equipo en lo que salió bien y en lo que se debe mejorar para el próximo Sprint.
+
+###### Los Artefactos en Scrum
+
+En el marco de trabajo Scrum, denominamos Artefacto a aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. Los tres principales artefactos o herramientas Scrum son: el Product Backlog(Pila del Producto), Sprint Backlog(Pila del Sprint) y el Incremento(Increment).
+
+###### Roles de Scrum
+
+El entendimiento de los roles de Scrum y las responsabilidades definidas es muy importante para asegurar la implementación exitosa de los proyectos. Existen 3 roles principales: El Product Owner (Dueño del Producto), el Scrum Master (Dueño del proceso) y el Team (Miembros del Equipo de Desarrollo).
