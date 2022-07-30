@@ -112,3 +112,9 @@ En el marco de trabajo Scrum, denominamos Artefacto a aquellos elementos físico
 ###### Roles de Scrum
 
 El entendimiento de los roles de Scrum y las responsabilidades definidas es muy importante para asegurar la implementación exitosa de los proyectos. Existen 3 roles principales: El Product Owner (Dueño del Producto), el Scrum Master (Dueño del proceso) y el Team (Miembros del Equipo de Desarrollo).
+
+# *Software*
+
+El software son los programas, los documentos asociados y la configuración de datos que
+se necesitan para hacer que estos programas operen de manera correcta
+
