@@ -51,6 +51,9 @@ insert into perro values (15,'samanta','20/01/2018','hembra',28957346)
 insert into historial values (1,'1/1/2018',1,'corte',$175)
 insert into historial values (15,'1/10/2022',15,'corte',$275)
 
+
+/actividad 3 -Borre un animal que ya no va a ser atendido. Para ello consulte antes en el historial, algún animal que ya no sea atendido desde hace mucho tiempo.*/
+
 /*SE REALIZA LA CONSULTA DE LA TABLA PERRO Y LA TABLA HISTORIA */
 
 select id_perro,nombre_p,fecha from perro inner join historial on perro.id_perro = historial.id_historial
